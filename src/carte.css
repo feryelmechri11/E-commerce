@@ -1,0 +1,11 @@
+.phone-card{
+    border: 2px solid black;
+    width:280px;
+}
+img{
+    width:200px;
+    height: 250px;
+}
+.container-phones{
+    display: flex;
+}
